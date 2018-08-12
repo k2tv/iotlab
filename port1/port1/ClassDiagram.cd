@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>port1Dlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMscomm1" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AZkgERYByAPYGGVCAgACkAAA4AgBolAAhIUMVIgBMCY=</HashCode>
+      <FileName>mscomm1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cport1App" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>port1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cport1Dlg" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMCgBIFEEAhAlAAAIJgAAICgRQUgQCYCQEQgIAiQk8A=</HashCode>
+      <FileName>port1Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
